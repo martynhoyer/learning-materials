@@ -1,5 +1,5 @@
 # learning-materials
-Just dumping a checklist of resources to try and keep them in one place!
+Just dumping a checklist of resources/reading/courses to try and keep them in one place!
 
 ## JS/React
 
@@ -9,6 +9,7 @@ Just dumping a checklist of resources to try and keep them in one place!
 - [ ] [React fundamentals](https://reacttraining.com/online/react-fundamentals)
 - [ ] [Learn Redux](https://learnredux.com/)
 - [ ] [DWYL learn Redux](https://github.com/dwyl/learn-redux/blob/master/README.md)
+- [ ] [Good slide deck apparently](https://t.co/oDAm1uH3sd)
 
 ### Webpack 2
 
