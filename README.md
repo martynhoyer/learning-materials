@@ -27,4 +27,6 @@ Just dumping a checklist of resources/reading/courses to try and keep them in on
 
 ## Misc
 
+- [ ] [Typography handbook](http://typographyhandbook.com/)
+
 
