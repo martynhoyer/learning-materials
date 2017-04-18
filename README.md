@@ -28,5 +28,6 @@ Just dumping a checklist of resources/reading/courses to try and keep them in on
 ## Misc
 
 - [ ] [Typography handbook](http://typographyhandbook.com/)
+- [ ] [Gatsby 1.0](https://www.youtube.com/watch?v=hbjR5N6IhDU&list=PLHSBYD3ClyvN-eN1X8q7tdbY5K6b5236l&index=3)
 
 
