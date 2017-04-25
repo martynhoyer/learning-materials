@@ -31,5 +31,6 @@ Just dumping a checklist of resources/reading/courses to try and keep them in on
 
 - [ ] [Typography handbook](http://typographyhandbook.com/)
 - [x] [Gatsby 1.0](https://www.youtube.com/watch?v=hbjR5N6IhDU&list=PLHSBYD3ClyvN-eN1X8q7tdbY5K6b5236l&index=3)
+- [ ] [Static sites on AWS](https://medium.com/of-all-things-tech-progress/hosting-a-static-website-with-amazon-web-services-aws-11735ee17f8c)
 
 
