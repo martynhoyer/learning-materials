@@ -19,7 +19,7 @@ Just dumping a checklist of resources/reading/courses to try and keep them in on
 ## CSS
 
 - [x] [Grid](https://egghead.io/courses/build-complex-layouts-with-css-grid-layout)
-- [ ] [Flexbox/grid working together](https://www.youtube.com/watch?v=lhuyxt8YpbM)
+- [x] [Flexbox/grid working together](https://www.youtube.com/watch?v=lhuyxt8YpbM)
 
 ## HTML
 
